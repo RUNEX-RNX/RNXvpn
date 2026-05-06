@@ -1,5 +1,6 @@
-vless://3d243df5-9cda-4aac-89d5-354de77d79e2@reserve.pilates.rodeo:2053?encryption=none&security=tls&alpn=http%2F1.1%2Ch2&sni=nice.ducks.tel&serviceName=grpc&type=grpc#🇩🇪 Германия RNXvpn
-vless://b2c3d4e5-f6a7-8901-bcde-f12345678901@185.242.228.19:2096?encryption=none&security=reality&sni=amazon.com&fp=safari&pbk=K7mN9pQrS1tUvW3xYzA5cC7eE9gG1iK3kM5nP7qR9sT&sid=3d5f&type=tcp&flow=xtls-rprx-vision#🇳🇱 Нидерланды RNXvpn
-vless://08398f07-808c-4dd5-a535-1886e1837cc8@95.163.210.110:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=sso.passport.yandex.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇫🇷 Франция RNXvpn
-vless://08398f07-808c-4dd5-a535-1886e1837cc8@95.163.210.110:8444?encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇵🇱 Польша RNXvpn
-vless://08398f07-808c-4dd5-a535-1886e1837cc8@95.163.210.110:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#🇫🇮 Финляндия RNXvpn
+#NAME:RNXvpn Subscription
+vless://3d243df5-9cda-4aac-89d5-354de77d79e2@reserve.pilates.rodeo:2053?encryption=none&security=tls&alpn=http%2F1.1%2Ch2&sni=nice.ducks.tel&serviceName=grpc&type=grpc#DE-RNXvpn
+vless://b2c3d4e5-f6a7-8901-bcde-f12345678901@185.242.228.19:2096?encryption=none&security=reality&sni=amazon.com&fp=safari&pbk=K7mN9pQrS1tUvW3xYzA5cC7eE9gG1iK3kM5nP7qR9sT&sid=3d5f&type=tcp&flow=xtls-rprx-vision#NL-RNXvpn
+vless://08398f07-808c-4dd5-a535-1886e1837cc8@95.163.210.110:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=sso.passport.yandex.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#FR-RNXvpn
+vless://08398f07-808c-4dd5-a535-1886e1837cc8@95.163.210.110:8444?encryption=none&type=tcp&security=reality&fp=chrome&sni=eh.vk.com&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#PL-RNXvpn
+vless://08398f07-808c-4dd5-a535-1886e1837cc8@95.163.210.110:8081?encryption=none&type=tcp&security=reality&fp=chrome&sni=max.ru&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c#FI-RNXvpn
